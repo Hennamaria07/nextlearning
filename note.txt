@@ -1,6 +1,0 @@
-#folder structrue
-.next is the build folder
-app folder is the heart of the project
-node_module gave all the dependencies that nextjs and reactjs is dependence on
-nextConfig for providing configarations to nextjs application
-
