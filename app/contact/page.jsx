@@ -6,4 +6,10 @@ const Contact = () => {
   )
 }
 
+export const generateMetadata = () => {
+  return {
+    title: 'Contact Us',
+    description: 'Contact our customer service team for any questions or concerns.',
+  }
+}
 export default Contact
